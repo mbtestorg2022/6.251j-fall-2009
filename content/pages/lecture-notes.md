@@ -226,7 +226,7 @@ Courtesy of Prof. Andreas Schulz. Used with permission.
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit6_251jf09_lec17))
+([PDF]({{< baseurl >}}/resources/mit6_251jf09_lec17))
 {{< tdclose >}}
 
 {{< trclose >}}
